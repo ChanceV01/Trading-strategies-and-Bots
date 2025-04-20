@@ -1,4 +1,4 @@
-# Trading-strategies-and-Bots# 📈 TradingView Strategies & Bots
+📈 TradingView Strategies & Bots
 
 Welcome to the **TradingView Strategies & Bots** repository!  
 This repo contains Pine Script strategies, indicators, and automated trading bot logic developed for use on the [TradingView](https://www.tradingview.com) platform.
